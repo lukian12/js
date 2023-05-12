@@ -1,0 +1,100 @@
+h1{
+    text-align: center;
+    
+    }
+    
+    body{
+        text-align: center;
+        font-size: 50px;
+        background-color: aquamarine;
+        height: 5000px;
+        width: 2440px;
+    }
+    .porta1{
+        background-color: darkred;
+        float: left;
+        border: solid 2px;
+        text-align: center;
+        height: 800px;
+        width: 600px;
+    }
+    .porta2{
+        background-color: blueviolet;
+        float: left;
+      display: block;
+     text-align: center;    
+     border: solid 2px;
+     height : 800px;
+     width: 600px;
+    
+    }
+    .porta3{
+        background-color: chartreuse;
+        float: left;
+        display: block;
+        text-align: center;
+        border: solid 2px;
+        height: 800px;
+        width: 600px;
+    }
+    .porta4{
+        background-color: orange;
+        float: left;
+        display: block;
+        text-align: center;
+        height: 800px;
+        width: 600px;
+        border: solid 2px;
+    
+    }
+    .porta5{
+        background-color: deeppink;
+        float: left;
+        display: block;
+        text-align: center;
+        height:800px;
+        width:600px;
+        border:solid 2px;
+    }
+    .porta6{
+        background-color: dimgray;
+        float: left;
+        display: block;
+        text-align: center;
+        height: 800px;
+        width: 600px;
+        border: solid 2px;
+    }
+    .porta7{
+        background-color: indigo;
+        float: left;
+        display:block;
+        text-align: center;
+        height: 800px;
+        width:600px;
+        border: solid 2px;
+    }
+    .porta8{
+    background-color:chocolate;
+    float: left;
+    display:block;
+    text-align: center;
+    height: 800px;
+    width: 600px;
+    border: solid 2px;
+}
+button:hover{
+    background-color: brown;
+    font-size: 40px;
+}    
+.botao1{
+
+    justify-content:center ;
+    display: flex;
+    float:left ;
+}
+.botoes{
+    justify-content: center;
+    display: flex;
+    float:left;
+}
